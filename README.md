@@ -203,7 +203,7 @@ Comprehensive documentation is available in the `eBook` folder:
 
 **Project Leader: Moe Thiha (Vasudev Adhikari)**
 - **Phone**: +95 9989377380
-- **Email**: artsvasudev@gmail.com
+- **Email**: [artsvasudev@gmail.com](mailto:artsvasudev@gmail.com)
 - **Telegram**: @moethihaAdk
 - **GitHub**: [github.com/VasudevAdhikari](https://github.com/VasudevAdhikari)
 
